@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* CSS Document */
+.kj0n1{
+	width:405px;
+	margin-top:0px;
+	margin-left:12px;
+	margin-right:6px;
+	margin-bottom:24px;
+	padding-bottom:6px;
+	padding-left:auto;
+	padding-right:auto;
+	padding-top:0px;
+	display:inline-block;
+	vertical-align:top;
+}
+.tt1{
+	width:405px;
+	display:inline-block;
+	vertical-align:top;
+	background-color:rgba(224,224,224,1);
+}
+.ic0n{
+	width:48px;
+	height:36px;
+	font-family:FontAwesome;
+	font-size:30px;
+	font-weight:normal;
+	text-align:center;
+	text-decoration:none;
+	color:rgba(224,224,224,1);
+	margin-top:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	padding-top:8px;
+	display:inline-block;
+	vertical-align:top;
+	background-color:rgba(18,122,93,1);
+}
+.tt1a{
+	width:345px;
+	height:30px;
+	font-family:gill_sans_std_lightregular;
+	font-size:24px;
+	font-weight:normal;
+	text-align:left;
+	text-decoration:none;
+	color:rgba(18,122,93,1);
+	margin-top:4px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	padding-top:px;
+	padding-left:12px;
+	padding-right:0;
+	padding-bottom:0px;
+	border-radius:5px /*sup izq*/ 0px /*sup der*/ 0px /*inf izq*/ 5px /*inf der*/;
+	-moz-border-radius:5px /*sup izq*/ 0px /*sup der*/ 0px /*inf izq*/ 5px /*inf der*/;
+	-webkit-border-radius:5px /*sup izq*/ 0px /*sup der*/ 0px /*inf izq*/ 5px /*inf der*/;
+	display:inline-block;
+	vertical-align:top;
+}
